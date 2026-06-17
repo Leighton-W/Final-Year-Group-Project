@@ -22,6 +22,7 @@ This project gave me experience working within a multidisciplinary development t
 ## Project Media
 
 Trailer: https://youtu.be/DLb39wR4EyM?si=GtyzZ7OxuR-SSqNl
+
 Website: https://kwigglesworth7.wixsite.com/solusthegame/blog
 
 ## Note
